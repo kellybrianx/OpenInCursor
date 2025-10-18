@@ -50,15 +50,15 @@ Supports opening virtually any code file in Cursor:
 ## 📸 Screenshots
 
 ### Context Menu Integration
-![Context Menu](screenshots/context-menu.png)
+![Context Menu](screenshots/open_in_cursor_context.png)
 *Right-click any file to see the "Open with Cursor" option appear in your file manager*
 
 ### Installation Process
-![Installation](screenshots/install.png)
+![Installation](screenshots/open_in_cursor_isntall.png)
 *The setup script automatically detecting your file manager and creating the Cursor integration*
 
 ### Removal Process
-![Removal](screenshots/removal.png)
+![Removal](screenshots/open_in_cursor_remove.png)
 *Clean uninstallation that removes all traces of the integration*
 
 ## 🚀 Quick Start
