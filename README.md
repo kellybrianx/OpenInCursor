@@ -6,6 +6,20 @@
 [![Linux](https://img.shields.io/badge/Platform-Linux-blue.svg)](https://www.linux.org/)
 [![File Managers](https://img.shields.io/badge/File%20Managers-Nautilus%20%7C%20Nemo-green.svg)](https://github.com/kellybrianx/OpenInCursor)
 
+## ⚡ Quick Install (One-Liner)
+
+**Install Cursor integration:**
+```bash
+curl -fsSL https://raw.githubusercontent.com/kellybrianx/OpenInCursor/refs/heads/main/setup_cursor_shortcut.sh | bash
+```
+
+**Remove Cursor integration:**
+```bash
+curl -fsSL https://raw.githubusercontent.com/kellybrianx/OpenInCursor/refs/heads/main/remove_cursor_shortcut.sh | bash
+```
+
+*That's it! No cloning, no chmod, no coffee breaks needed! ☕*
+
 ## 🎯 What This Does
 
 Ever found yourself in your file manager, staring at a beautiful code file, and thinking *"Man, I wish I could just right-click this and open it in Cursor instead of navigating through 47 folders and 3 coffee breaks?"* 
