@@ -47,6 +47,20 @@ Supports opening virtually any code file in Cursor:
 - Restarts file manager gracefully (no more "why is my file manager acting weird?")
 - Removes all traces when uninstalling (we're not leaving digital breadcrumbs)
 
+## 📸 Screenshots
+
+### Context Menu Integration
+![Context Menu](screenshots/context-menu.png)
+*Right-click any file to see the "Open with Cursor" option appear in your file manager*
+
+### Installation Process
+![Installation](screenshots/install.png)
+*The setup script automatically detecting your file manager and creating the Cursor integration*
+
+### Removal Process
+![Removal](screenshots/removal.png)
+*Clean uninstallation that removes all traces of the integration*
+
 ## 🚀 Quick Start
 
 ### Prerequisites
